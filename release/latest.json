@@ -1,11 +1,18 @@
 {
-  "version": "1.1.1",
-  "released_at": "2026-10-23T12:20:05",
-  "notes": "แก้ไข UI การ์ดเลือกผู้ใช้งานและการ์ด MOM ไม่ให้ข้อความล้นกรอบ",
-  "patch_url": "versions/v1.1.1/meeting_ai_patch.zip",
-  "sha256": "28002006e93d36b488dd8e7160ff324971e34ab8bb7704057b7b1753c5af5443",
+  "version": "1.1.2",
+  "released_at": "2026-10-23T12:26:09",
+  "notes": "ย้ายปุ่มแจ้งเตือนอัปเดตมาไว้ข้างเลขเวอร์ชัน + เพิ่มตั้งค่าโหมดสีหน้าจอ (สว่าง / มืด / ตามเครื่อง)",
+  "patch_url": "versions/v1.1.2/meeting_ai_patch.zip",
+  "sha256": "9504287143d00ea5f98aeba3bbcc788370e84a3f4f5e678bc382110b5f0dc6a9",
   "rollback": false,
   "history": [
+    {
+      "version": "1.1.2",
+      "released_at": "2026-10-23T12:26:09",
+      "notes": "ย้ายปุ่มแจ้งเตือนอัปเดตมาไว้ข้างเลขเวอร์ชัน + เพิ่มตั้งค่าโหมดสีหน้าจอ (สว่าง / มืด / ตามเครื่อง)",
+      "patch_url": "versions/v1.1.2/meeting_ai_patch.zip",
+      "sha256": "9504287143d00ea5f98aeba3bbcc788370e84a3f4f5e678bc382110b5f0dc6a9"
+    },
     {
       "version": "1.1.1",
       "released_at": "2026-10-23T12:20:05",

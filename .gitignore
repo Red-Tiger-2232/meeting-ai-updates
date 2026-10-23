@@ -1,0 +1,6 @@
+# Release-only repository: NEVER push source code, HANDOFF.md, or company meeting data/output to GitHub.
+# Only the encrypted patch archives under `release/` are tracked.
+/*
+!/.gitignore
+!/release/
+release/**/.DS_Store

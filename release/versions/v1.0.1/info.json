@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "released_at": "2026-10-23T11:39:24",
+  "notes": "เพิ่มระบบ In-App Update เชื่อมต่อ GitHub + เข้ารหัสโค้ดระดับ Native Shield",
+  "patch_url": "versions/v1.0.1/meeting_ai_patch.zip",
+  "sha256": "92911967e7caa97431850e0046e05a8936208a4c06c486548e6d348c99a7997b"
+}

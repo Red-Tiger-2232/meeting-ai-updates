@@ -1,0 +1,7 @@
+{
+  "version": "1.2.6",
+  "released_at": "2026-10-23T17:11:03",
+  "notes": "แยกหน้า MOM และ Jira ชัดเจน + ระบบกรองตามวัน + แก้ไขป้ายงานของฉันใน Jira",
+  "patch_url": "versions/v1.2.6/meeting_ai_patch.zip",
+  "sha256": "8c8852769f46a40d56db34a639fac5271615f5f432177893bf24164e64d00200"
+}

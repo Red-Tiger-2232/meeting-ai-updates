@@ -1,11 +1,18 @@
 {
-  "version": "1.2.7",
-  "released_at": "2026-10-23T18:19:20",
-  "notes": "ย้ายช่องวางลิงก์ทำ MOM ขึ้นมาเป็นปุ่มด้านบน เพื่อให้กดใช้งานง่ายเวลาหาการประชุมไม่เจอ",
-  "patch_url": "versions/v1.2.7/meeting_ai_patch.zip",
-  "sha256": "9dbe3e3a73e69a43e4e6a854cd31d248f57e9534bd368408039ed31d03368e90",
+  "version": "1.2.8",
+  "released_at": "2026-10-23T18:36:32",
+  "notes": "นำปุ่มวางลิงก์ซ้ำซ้อนในหัวข้อรายการประชุมออก และคงปุ่มขวาบนไว้ตามที่ต้องการ",
+  "patch_url": "versions/v1.2.8/meeting_ai_patch.zip",
+  "sha256": "8242d39d88770a4ce8605ae12c72ddf6aa3ad179cbb7aad92ce777a7c2eddff0",
   "rollback": false,
   "history": [
+    {
+      "version": "1.2.8",
+      "released_at": "2026-10-23T18:36:32",
+      "notes": "นำปุ่มวางลิงก์ซ้ำซ้อนในหัวข้อรายการประชุมออก และคงปุ่มขวาบนไว้ตามที่ต้องการ",
+      "patch_url": "versions/v1.2.8/meeting_ai_patch.zip",
+      "sha256": "8242d39d88770a4ce8605ae12c72ddf6aa3ad179cbb7aad92ce777a7c2eddff0"
+    },
     {
       "version": "1.2.7",
       "released_at": "2026-10-23T18:19:20",

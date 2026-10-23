@@ -1,0 +1,7 @@
+{
+  "version": "1.2.8",
+  "released_at": "2026-10-23T18:36:32",
+  "notes": "นำปุ่มวางลิงก์ซ้ำซ้อนในหัวข้อรายการประชุมออก และคงปุ่มขวาบนไว้ตามที่ต้องการ",
+  "patch_url": "versions/v1.2.8/meeting_ai_patch.zip",
+  "sha256": "8242d39d88770a4ce8605ae12c72ddf6aa3ad179cbb7aad92ce777a7c2eddff0"
+}

@@ -1,11 +1,18 @@
 {
-  "version": "1.2.4",
-  "released_at": "2026-10-23T16:22:37",
-  "notes": "ถอดกล่องเลือกผู้ใช้ 5 คนออก + เพิ่มตัวเลือกรูปแบบ MOM (ver DE หรือ ver BP) + แสดงสถานะระบุตัวตนอัตโนมัติจาก Teams/Jira ชัดเจน",
-  "patch_url": "versions/v1.2.4/meeting_ai_patch.zip",
-  "sha256": "5984bab11b19181c2326c9890439fff08374f880f5b4093fd8172caa1dc6c752",
+  "version": "1.2.5",
+  "released_at": "2026-10-23T16:45:08",
+  "notes": "แก้ไขการตัดคำและการตัดบรรทัดของการ์ดเลือกรูปแบบ MOM ไม่ให้ข้อความล้นกรอบ",
+  "patch_url": "versions/v1.2.5/meeting_ai_patch.zip",
+  "sha256": "c9bd967ad952b356b2a8b2f1f5b2103d7afdc6b16e4a635dc637bd2a729a9bc3",
   "rollback": false,
   "history": [
+    {
+      "version": "1.2.5",
+      "released_at": "2026-10-23T16:45:08",
+      "notes": "แก้ไขการตัดคำและการตัดบรรทัดของการ์ดเลือกรูปแบบ MOM ไม่ให้ข้อความล้นกรอบ",
+      "patch_url": "versions/v1.2.5/meeting_ai_patch.zip",
+      "sha256": "c9bd967ad952b356b2a8b2f1f5b2103d7afdc6b16e4a635dc637bd2a729a9bc3"
+    },
     {
       "version": "1.2.4",
       "released_at": "2026-10-23T16:22:37",

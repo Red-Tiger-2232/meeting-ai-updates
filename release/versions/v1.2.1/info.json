@@ -1,0 +1,7 @@
+{
+  "version": "1.2.1",
+  "released_at": "2026-10-23T15:31:25",
+  "notes": "ปรับข้อความแสดงเฉพาะ Admin + ปรับปรุงระบบล็อกอิน Jira ให้เชื่อมต่อสมบูรณ์",
+  "patch_url": "versions/v1.2.1/meeting_ai_patch.zip",
+  "sha256": "d54dc8fe5b5597bff604b5d66a301938fe4306ecce1d39b4fe35248ebbec5c3c"
+}

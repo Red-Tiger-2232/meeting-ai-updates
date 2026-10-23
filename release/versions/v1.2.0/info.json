@@ -1,0 +1,7 @@
+{
+  "version": "1.2.0",
+  "released_at": "2026-10-23T12:46:03",
+  "notes": "เพิ่มระบบบอร์ด Jira ทีม Store & Sales (ดูงาน/เปลี่ยนสถานะ/เปิดลิงก์) + กระดิ่งแจ้งเตือนทีม (🔔) เมื่อมีคนทำเสร็จ (Done) + ระบบส่ง Feedback ให้ AI วิเคราะห์ความเป็นไปได้และ Risk เพื่อให้วุฒิ (Admin) กด Approve",
+  "patch_url": "versions/v1.2.0/meeting_ai_patch.zip",
+  "sha256": "79388588162755017b571cbe4cad8941ba748454d0859cad4398f5dad7938f78"
+}

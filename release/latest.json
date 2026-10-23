@@ -1,11 +1,18 @@
 {
-  "version": "1.2.8",
-  "released_at": "2026-10-23T23:45:52",
-  "notes": "เพิ่มแถบแบนเนอร์แจ้งเตือนอัปเดตสีทองเด่นชัดด้านบน + เพิ่มการแจ้งเตือนอัปเดตในกระดิ่ง 🔔 + ตรวจหาอัปเดตอัตโนมัติ",
-  "patch_url": "versions/v1.2.8/meeting_ai_patch.zip",
-  "sha256": "3fcd167141ded9983f22e73a1fd9b0ecde20dcb5e5041fab1d2e9fe1d4ef4820",
+  "version": "1.2.9",
+  "released_at": "2026-10-24T00:23:21",
+  "notes": "เพิ่มปุ่ม 📥 Excel ดาวน์โหลด Action items เป็นไฟล์ .xlsx (มีคอลัมน์สถานะให้ติดตามต่อ) + แก้บั๊กหน้าจอขึ้น 'ติดต่อโปรแกรมไม่ได้' และบั๊กโปรแกรมเปิดไม่ขึ้นใน v1.2.8",
+  "patch_url": "versions/v1.2.9/meeting_ai_patch.zip",
+  "sha256": "7f6d39bd04cad1ff6fc359aa1dc8a993d2643107be49e1a0f42c55e488168e6e",
   "rollback": false,
   "history": [
+    {
+      "version": "1.2.9",
+      "released_at": "2026-10-24T00:23:21",
+      "notes": "เพิ่มปุ่ม 📥 Excel ดาวน์โหลด Action items เป็นไฟล์ .xlsx (มีคอลัมน์สถานะให้ติดตามต่อ) + แก้บั๊กหน้าจอขึ้น 'ติดต่อโปรแกรมไม่ได้' และบั๊กโปรแกรมเปิดไม่ขึ้นใน v1.2.8",
+      "patch_url": "versions/v1.2.9/meeting_ai_patch.zip",
+      "sha256": "7f6d39bd04cad1ff6fc359aa1dc8a993d2643107be49e1a0f42c55e488168e6e"
+    },
     {
       "version": "1.2.8",
       "released_at": "2026-10-23T23:45:52",

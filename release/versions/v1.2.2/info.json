@@ -1,0 +1,7 @@
+{
+  "version": "1.2.2",
+  "released_at": "2026-10-23T16:10:16",
+  "notes": "ระบุตัวตนอัตโนมัติจาก Microsoft Teams/Jira + ล็อกสิทธิ์ปรับสถานะ Jira เฉพาะใบงานของตนเอง",
+  "patch_url": "versions/v1.2.2/meeting_ai_patch.zip",
+  "sha256": "c1bba70753dde8e41acd6a77751f480c630481641d379f6380c705849622a6c5"
+}

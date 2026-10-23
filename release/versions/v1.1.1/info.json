@@ -1,0 +1,7 @@
+{
+  "version": "1.1.1",
+  "released_at": "2026-10-23T12:20:05",
+  "notes": "แก้ไข UI การ์ดเลือกผู้ใช้งานและการ์ด MOM ไม่ให้ข้อความล้นกรอบ",
+  "patch_url": "versions/v1.1.1/meeting_ai_patch.zip",
+  "sha256": "28002006e93d36b488dd8e7160ff324971e34ab8bb7704057b7b1753c5af5443"
+}

@@ -1,11 +1,18 @@
 {
-  "version": "1.1.0",
-  "released_at": "2026-10-23T12:12:59",
-  "notes": "อัปเดตสำหรับทีม Store & Sales: เลือกโปรไฟล์ผู้ใช้งาน (BP แก้ว / DE ยุ่ง, วุฒิ, เมย์, เพชร) + รูปแบบ MOM แยกตามตำแหน่ง (ver BP / ver DE) + กรอง Action Items ของตัวเอง",
-  "patch_url": "versions/v1.1.0/meeting_ai_patch.zip",
-  "sha256": "c489258e8bbcfd2d299e5fb255b17f7deb70e910d2878b2322f30d01894334c3",
+  "version": "1.1.1",
+  "released_at": "2026-10-23T12:20:05",
+  "notes": "แก้ไข UI การ์ดเลือกผู้ใช้งานและการ์ด MOM ไม่ให้ข้อความล้นกรอบ",
+  "patch_url": "versions/v1.1.1/meeting_ai_patch.zip",
+  "sha256": "28002006e93d36b488dd8e7160ff324971e34ab8bb7704057b7b1753c5af5443",
   "rollback": false,
   "history": [
+    {
+      "version": "1.1.1",
+      "released_at": "2026-10-23T12:20:05",
+      "notes": "แก้ไข UI การ์ดเลือกผู้ใช้งานและการ์ด MOM ไม่ให้ข้อความล้นกรอบ",
+      "patch_url": "versions/v1.1.1/meeting_ai_patch.zip",
+      "sha256": "28002006e93d36b488dd8e7160ff324971e34ab8bb7704057b7b1753c5af5443"
+    },
     {
       "version": "1.1.0",
       "released_at": "2026-10-23T12:12:59",

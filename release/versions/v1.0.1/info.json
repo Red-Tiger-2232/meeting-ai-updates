@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
-  "released_at": "2026-10-23T11:47:11",
-  "notes": "เพิ่มระบบ In-App Update + เข้ารหัสซ่อนลิงก์อัปเดตและโค้ดทั้งหมด",
+  "released_at": "2026-10-23T11:47:35",
+  "notes": "เพิ่มระบบ In-App Update อัตโนมัติ + ระบบจัดการเวอร์ชันและย้อนกลับ",
   "patch_url": "versions/v1.0.1/meeting_ai_patch.zip",
-  "sha256": "832b5c933a1f5a5e84b5e97fe60246ea09004f0f5f43a4ab1fa2322e4146114a"
+  "sha256": "2e898296b07b43a55ce425b21d944d527752e6f39e0fa4616d9077f2e8a8c389"
 }

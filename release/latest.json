@@ -1,11 +1,18 @@
 {
-  "version": "1.4.0",
-  "released_at": "2026-10-24T02:02:59",
-  "notes": "หน้าตาใหม่ (เมนูซ้าย หน้าวันนี้ รวมประชุมกับ MOM) + BRD AI รวม MOM เป็น BRD + Jira AI ร่างใบงาน Jira จาก MOM (ตรวจ/แก้ก่อนสร้าง กันซ้ำกับใบเดิม)",
-  "patch_url": "versions/v1.4.0/meeting_ai_patch.zip",
-  "sha256": "cb853732e299297cb7180d7e005e4ae7c6b4b6d29d0cc6e93ad0723bed958a3e",
+  "version": "1.4.1",
+  "released_at": "2026-10-24T02:04:59",
+  "notes": "Jira AI: ปิดการสร้างใบงานจริงไว้ก่อน ดูร่างใบงานได้อย่างเดียว",
+  "patch_url": "versions/v1.4.1/meeting_ai_patch.zip",
+  "sha256": "0123a8589e2decdfafdf9737a3ce0539b589bb04974bb72df7e9183f34f53a3a",
   "rollback": false,
   "history": [
+    {
+      "version": "1.4.1",
+      "released_at": "2026-10-24T02:04:59",
+      "notes": "Jira AI: ปิดการสร้างใบงานจริงไว้ก่อน ดูร่างใบงานได้อย่างเดียว",
+      "patch_url": "versions/v1.4.1/meeting_ai_patch.zip",
+      "sha256": "0123a8589e2decdfafdf9737a3ce0539b589bb04974bb72df7e9183f34f53a3a"
+    },
     {
       "version": "1.4.0",
       "released_at": "2026-10-24T02:02:59",

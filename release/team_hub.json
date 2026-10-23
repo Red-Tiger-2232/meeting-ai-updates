@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T23:38:48",
-  "jira_synced_at": "2026-10-23T23:38:48",
+  "updated_at": "2026-10-23T23:53:41",
+  "jira_synced_at": "2026-10-23T23:53:41",
   "jira_issues": [
     {
       "key": "CDA-291",
@@ -15,7 +15,7 @@
       "issue_type": "Task",
       "project_key": "CDA",
       "updated": "2026-10-23T14:03:51",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-11-15",
       "url": "https://lotusretails.atlassian.net/browse/CDA-291",
       "transitions": [
@@ -46,7 +46,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-22T08:52:14",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-26",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21158",
       "transitions": [
@@ -77,7 +77,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-22T08:51:19",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-11-01",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21152",
       "transitions": [
@@ -108,7 +108,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-22T08:50:25",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-22",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21151",
       "transitions": [
@@ -145,7 +145,7 @@
       "issue_type": "Story",
       "project_key": "DEAA",
       "updated": "2026-10-22T02:45:41",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-22",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21162",
       "transitions": [
@@ -182,7 +182,7 @@
       "issue_type": "Task",
       "project_key": "DEAA",
       "updated": "2026-10-22T02:45:24",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-27",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21148",
       "transitions": [
@@ -213,7 +213,7 @@
       "issue_type": "Story",
       "project_key": "DEAA",
       "updated": "2026-10-22T02:45:12",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-26",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-20129",
       "transitions": [
@@ -244,7 +244,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-22T02:44:50",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-23",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21164",
       "transitions": [
@@ -281,7 +281,7 @@
       "issue_type": "Sub-task",
       "project_key": "SNBB2B",
       "updated": "2026-10-22T02:43:16",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-30",
       "url": "https://lotusretails.atlassian.net/browse/SNBB2B-1405",
       "transitions": [
@@ -330,7 +330,7 @@
       "issue_type": "Sub-task",
       "project_key": "SNBB2B",
       "updated": "2026-10-22T02:43:14",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-30",
       "url": "https://lotusretails.atlassian.net/browse/SNBB2B-1408",
       "transitions": [
@@ -379,7 +379,7 @@
       "issue_type": "Sub-task",
       "project_key": "SNBB2B",
       "updated": "2026-10-22T02:43:11",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-30",
       "url": "https://lotusretails.atlassian.net/browse/SNBB2B-1410",
       "transitions": [
@@ -428,7 +428,7 @@
       "issue_type": "Sub-task",
       "project_key": "SNBB2B",
       "updated": "2026-10-22T02:43:08",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-30",
       "url": "https://lotusretails.atlassian.net/browse/SNBB2B-1411",
       "transitions": [
@@ -477,7 +477,7 @@
       "issue_type": "Sub-task",
       "project_key": "SNBB2B",
       "updated": "2026-10-22T02:43:03",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-30",
       "url": "https://lotusretails.atlassian.net/browse/SNBB2B-1412",
       "transitions": [
@@ -526,7 +526,7 @@
       "issue_type": "Sub-task",
       "project_key": "SNBB2B",
       "updated": "2026-10-22T02:43:00",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-30",
       "url": "https://lotusretails.atlassian.net/browse/SNBB2B-1413",
       "transitions": [
@@ -575,7 +575,7 @@
       "issue_type": "Story",
       "project_key": "SNBB2B",
       "updated": "2026-10-22T02:42:17",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-27",
       "url": "https://lotusretails.atlassian.net/browse/SNBB2B-1432",
       "transitions": [
@@ -624,7 +624,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-22T02:41:22",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-23",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21388",
       "transitions": [
@@ -661,7 +661,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-22T02:40:41",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-21",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21077",
       "transitions": [
@@ -698,7 +698,7 @@
       "issue_type": "Task",
       "project_key": "DEAA",
       "updated": "2026-10-21T20:07:54",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21375",
       "transitions": [
@@ -729,7 +729,7 @@
       "issue_type": "Task",
       "project_key": "DEAA",
       "updated": "2026-10-21T20:07:52",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21371",
       "transitions": [
@@ -760,7 +760,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-21T13:31:28",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-21",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21365",
       "transitions": [
@@ -797,7 +797,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-21T13:31:24",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-21",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21364",
       "transitions": [
@@ -834,7 +834,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-21T13:31:20",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-21",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21363",
       "transitions": [
@@ -871,7 +871,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-21T13:31:16",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-21",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21362",
       "transitions": [
@@ -908,7 +908,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-21T13:31:11",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-21",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21361",
       "transitions": [
@@ -945,7 +945,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-21T13:31:06",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-21",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21360",
       "transitions": [
@@ -982,7 +982,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-21T13:31:02",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-20",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21359",
       "transitions": [
@@ -1019,7 +1019,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-21T13:30:45",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-20",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21358",
       "transitions": [
@@ -1056,7 +1056,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-21T13:30:41",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-20",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21357",
       "transitions": [
@@ -1093,7 +1093,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-21T13:30:37",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-20",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21356",
       "transitions": [
@@ -1130,7 +1130,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-21T13:30:02",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-20",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21355",
       "transitions": [
@@ -1167,7 +1167,7 @@
       "issue_type": "Story",
       "project_key": "DEAA",
       "updated": "2026-10-21T13:25:43",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-11-01",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21107",
       "transitions": [
@@ -1198,7 +1198,7 @@
       "issue_type": "Epic",
       "project_key": "SNBSTK",
       "updated": "2026-10-21T11:22:56",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "",
       "url": "https://lotusretails.atlassian.net/browse/SNBSTK-535",
       "transitions": [
@@ -1241,7 +1241,7 @@
       "issue_type": "Story",
       "project_key": "DEAA",
       "updated": "2026-10-20T13:47:48",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-11-01",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21263",
       "transitions": [
@@ -1272,7 +1272,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-20T13:21:43",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-23",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21271",
       "transitions": [
@@ -1309,7 +1309,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-20T11:40:14",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-11-01",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21273",
       "transitions": [
@@ -1340,7 +1340,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-20T11:20:34",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-20",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21267",
       "transitions": [
@@ -1377,7 +1377,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-20T11:17:54",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-20",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21264",
       "transitions": [
@@ -1414,7 +1414,7 @@
       "issue_type": "Task",
       "project_key": "DEAA",
       "updated": "2026-10-20T11:15:43",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-23",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-20386",
       "transitions": [
@@ -1451,7 +1451,7 @@
       "issue_type": "Task",
       "project_key": "DEAA",
       "updated": "2026-10-20T11:14:16",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-19",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-20616",
       "transitions": [
@@ -1488,7 +1488,7 @@
       "issue_type": "Issue",
       "project_key": "DEAA",
       "updated": "2026-10-20T11:12:23",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-19",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-19991",
       "transitions": [
@@ -1525,7 +1525,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-20T11:06:10",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-20855",
       "transitions": [
@@ -1556,7 +1556,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-20T10:56:01",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-20",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21252",
       "transitions": [
@@ -1587,7 +1587,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-20T10:47:51",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-19",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21049",
       "transitions": [
@@ -1624,7 +1624,7 @@
       "issue_type": "Story",
       "project_key": "DEAA",
       "updated": "2026-10-20T10:47:14",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-19",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-20263",
       "transitions": [
@@ -1661,7 +1661,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-20T08:15:11",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21246",
       "transitions": [
@@ -1692,7 +1692,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-20T06:59:26",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-21",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21163",
       "transitions": [
@@ -1729,7 +1729,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-19T22:32:43",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-30",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21242",
       "transitions": [
@@ -1760,7 +1760,7 @@
       "issue_type": "Task",
       "project_key": "DEAA",
       "updated": "2026-10-19T18:39:55",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-30",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21209",
       "transitions": [
@@ -1791,7 +1791,7 @@
       "issue_type": "Story",
       "project_key": "SNBSTK",
       "updated": "2026-10-19T17:23:22",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "",
       "url": "https://lotusretails.atlassian.net/browse/SNBSTK-731",
       "transitions": [
@@ -1840,7 +1840,7 @@
       "issue_type": "Story",
       "project_key": "SNBSTK",
       "updated": "2026-10-19T17:23:20",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-07-09",
       "url": "https://lotusretails.atlassian.net/browse/SNBSTK-95",
       "transitions": [
@@ -1883,7 +1883,7 @@
       "issue_type": "Story",
       "project_key": "SNBSTK",
       "updated": "2026-10-19T17:23:20",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "",
       "url": "https://lotusretails.atlassian.net/browse/SNBSTK-463",
       "transitions": [
@@ -1926,7 +1926,7 @@
       "issue_type": "Epic",
       "project_key": "SNBSTK",
       "updated": "2026-10-19T17:23:20",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-12-31",
       "url": "https://lotusretails.atlassian.net/browse/SNBSTK-19",
       "transitions": [
@@ -1969,7 +1969,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-19T15:17:55",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21192",
       "transitions": [
@@ -2000,7 +2000,7 @@
       "issue_type": "Task",
       "project_key": "DEAA",
       "updated": "2026-10-19T15:02:49",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-20904",
       "transitions": [
@@ -2031,7 +2031,7 @@
       "issue_type": "Task",
       "project_key": "DEAA",
       "updated": "2026-10-19T15:02:39",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-11-13",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-19338",
       "transitions": [
@@ -2062,7 +2062,7 @@
       "issue_type": "Task",
       "project_key": "DEAA",
       "updated": "2026-10-19T15:02:38",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-23",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-19324",
       "transitions": [
@@ -2093,7 +2093,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-19T14:06:12",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21159",
       "transitions": [
@@ -2124,7 +2124,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-19T12:17:30",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21153",
       "transitions": [
@@ -2155,7 +2155,7 @@
       "issue_type": "Story",
       "project_key": "DEAA",
       "updated": "2026-10-19T12:14:35",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-11-01",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21150",
       "transitions": [
@@ -2186,7 +2186,7 @@
       "issue_type": "Sub-task",
       "project_key": "DEAA",
       "updated": "2026-10-19T10:57:20",
-      "updated_local": "2026-10-23T23:38:48",
+      "updated_local": "2026-10-23T23:53:41",
       "duedate": "2026-10-18",
       "url": "https://lotusretails.atlassian.net/browse/DEAA-21143",
       "transitions": [

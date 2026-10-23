@@ -1,11 +1,18 @@
 {
-  "version": "1.2.6",
-  "released_at": "2026-10-23T17:11:03",
-  "notes": "แยกหน้า MOM และ Jira ชัดเจน + ระบบกรองตามวัน + แก้ไขป้ายงานของฉันใน Jira",
-  "patch_url": "versions/v1.2.6/meeting_ai_patch.zip",
-  "sha256": "8c8852769f46a40d56db34a639fac5271615f5f432177893bf24164e64d00200",
+  "version": "1.2.7",
+  "released_at": "2026-10-23T18:19:20",
+  "notes": "ย้ายช่องวางลิงก์ทำ MOM ขึ้นมาเป็นปุ่มด้านบน เพื่อให้กดใช้งานง่ายเวลาหาการประชุมไม่เจอ",
+  "patch_url": "versions/v1.2.7/meeting_ai_patch.zip",
+  "sha256": "9dbe3e3a73e69a43e4e6a854cd31d248f57e9534bd368408039ed31d03368e90",
   "rollback": false,
   "history": [
+    {
+      "version": "1.2.7",
+      "released_at": "2026-10-23T18:19:20",
+      "notes": "ย้ายช่องวางลิงก์ทำ MOM ขึ้นมาเป็นปุ่มด้านบน เพื่อให้กดใช้งานง่ายเวลาหาการประชุมไม่เจอ",
+      "patch_url": "versions/v1.2.7/meeting_ai_patch.zip",
+      "sha256": "9dbe3e3a73e69a43e4e6a854cd31d248f57e9534bd368408039ed31d03368e90"
+    },
     {
       "version": "1.2.6",
       "released_at": "2026-10-23T17:11:03",

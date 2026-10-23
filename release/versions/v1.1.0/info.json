@@ -1,0 +1,7 @@
+{
+  "version": "1.1.0",
+  "released_at": "2026-10-23T12:09:46",
+  "notes": "อัปเดตสำหรับทีม Store & Sales: เลือกโปรไฟล์ผู้ใช้งาน (BP แก้ว / DE ยุ่ง, วุฒิ, เมย์, เพชร) + รูปแบบ MOM แยกตามตำแหน่ง (ver BP / ver DE) + กรอง Action Items ของตัวเอง",
+  "patch_url": "versions/v1.1.0/meeting_ai_patch.zip",
+  "sha256": "37bd5746939d069ff6da651e666609ad3ae66d00eb8af8d041f95ca01d70f5d3"
+}

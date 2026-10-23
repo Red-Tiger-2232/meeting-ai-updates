@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T15:48:05",
+  "updated_at": "2026-10-23T15:49:56",
   "jira_synced_at": "2026-10-23T15:48:05",
   "jira_issues": [
     {
@@ -2211,6 +2211,43 @@
       ]
     }
   ],
-  "notifications": [],
-  "feedbacks": []
+  "notifications": [
+    {
+      "id": "ntf_1792745396457_3af138",
+      "type": "feedback_new",
+      "title": "💬 วุฒิ (DE) ส่ง Feedback ใหม่ถึง Admin",
+      "message": "“Test” · 🤖 AI วิเคราะห์: ไม่แนะนำ (Not Recommended) | Risk: ต่ำ (Low)",
+      "actor_id": "wut",
+      "actor_name": "วุฒิ",
+      "actor_role": "DE",
+      "target_role": "all",
+      "url": "",
+      "ref_key": "fb_1792745396455_06859",
+      "created_at": "2026-10-23T15:49:56"
+    }
+  ],
+  "feedbacks": [
+    {
+      "id": "fb_1792745396455_06859",
+      "author_id": "wut",
+      "author_name": "Sathianwut Sukitsuksawat",
+      "author_nickname": "วุฒิ",
+      "author_role": "DE",
+      "text": "Test",
+      "created_at": "2026-10-23T15:49:56",
+      "updated_at": "2026-10-23T15:49:56",
+      "status": "pending",
+      "admin_note": "",
+      "decided_at": "",
+      "ai_analysis": {
+        "can_do": false,
+        "feasibility": "ไม่แนะนำ (Not Recommended)",
+        "ai_summary": "Feedback นี้มีเพียงข้อความ 'Test' จึงไม่ทราบว่าผู้ใช้ต้องการให้ปรับปรุงหรือเพิ่มฟีเจอร์ใดในแอป และดูเหมือนเป็นการทดสอบระบบส่ง Feedback",
+        "implementation": "ไม่มีส่วนของแอปที่ต้องแก้ไข เนื่องจากไม่มีความต้องการที่ชัดเจน หากต้องการให้ดำเนินการ ควรให้ผู้ส่งระบุรายละเอียดเพิ่ม เช่น หน้าจอหรือฟีเจอร์ที่เกี่ยวข้อง (Teams Recording/Transcript, Jira, สรุป MOM ver BP/DE, Word/PDF, In-App Update) ปัญหาที่พบ และผลลัพธ์ที่คาดหวัง",
+        "risk_level": "ต่ำ (Low)",
+        "risks": "ปลอดภัยและไม่กระทบข้อมูลเดิม เพราะไม่มีการเปลี่ยนแปลงใดๆ ในระบบ แนะนำให้ Reject และแจ้งผู้ส่งให้ส่ง Feedback ใหม่พร้อมรายละเอียด เพื่อไม่ให้เสียเวลาพัฒนาโดยไม่มีเป้าหมายชัดเจน",
+        "dev_prompt": "ไม่มีงานที่ต้องพัฒนา: Feedback นี้เป็นเพียงข้อความทดสอบ ('Test') จึงไม่ควรสั่ง AI Coding Agent ลงมือแก้โค้ดหรือส่ง In-App Update ให้ Reject รายการนี้ และขอให้ผู้ส่ง (วุฒิ) ระบุรายละเอียดความต้องการจริงก่อน แล้วจึงวิเคราะห์ใหม่อีกครั้ง"
+      }
+    }
+  ]
 }

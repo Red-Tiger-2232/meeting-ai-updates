@@ -1,11 +1,18 @@
 {
-  "version": "1.2.3",
-  "released_at": "2026-10-23T16:13:58",
-  "notes": "ปรับปรุงระบบระบุตัวตนอัตโนมัติจาก Teams/Jira + ล็อกสิทธิ์สถานะ Jira เฉพาะงานของตนเอง",
-  "patch_url": "versions/v1.2.3/meeting_ai_patch.zip",
-  "sha256": "b75ccf5219a22c90a34067e8fce90f5d790f594ff36ebda39ba8f5db249ee786",
+  "version": "1.2.4",
+  "released_at": "2026-10-23T16:22:37",
+  "notes": "ถอดกล่องเลือกผู้ใช้ 5 คนออก + เพิ่มตัวเลือกรูปแบบ MOM (ver DE หรือ ver BP) + แสดงสถานะระบุตัวตนอัตโนมัติจาก Teams/Jira ชัดเจน",
+  "patch_url": "versions/v1.2.4/meeting_ai_patch.zip",
+  "sha256": "5984bab11b19181c2326c9890439fff08374f880f5b4093fd8172caa1dc6c752",
   "rollback": false,
   "history": [
+    {
+      "version": "1.2.4",
+      "released_at": "2026-10-23T16:22:37",
+      "notes": "ถอดกล่องเลือกผู้ใช้ 5 คนออก + เพิ่มตัวเลือกรูปแบบ MOM (ver DE หรือ ver BP) + แสดงสถานะระบุตัวตนอัตโนมัติจาก Teams/Jira ชัดเจน",
+      "patch_url": "versions/v1.2.4/meeting_ai_patch.zip",
+      "sha256": "5984bab11b19181c2326c9890439fff08374f880f5b4093fd8172caa1dc6c752"
+    },
     {
       "version": "1.2.3",
       "released_at": "2026-10-23T16:13:58",

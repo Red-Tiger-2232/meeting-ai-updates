@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T16:40:36",
+  "updated_at": "2026-10-23T16:40:40",
   "jira_synced_at": "2026-10-23T16:26:13",
   "jira_issues": [
     {
@@ -2213,6 +2213,19 @@
   ],
   "notifications": [
     {
+      "id": "ntf_1792748440570_dc67d7",
+      "type": "feedback_decision",
+      "title": "👑 Admin ❌ ชะลอ/ไม่ดำเนินการ (Reject) Feedback ของ วุฒิ",
+      "message": "เรื่อง: “Test”",
+      "actor_id": "wut",
+      "actor_name": "วุฒิ",
+      "actor_role": "DE",
+      "target_role": "all",
+      "url": "",
+      "ref_key": "fb_1792745396455_06859",
+      "created_at": "2026-10-23T16:40:40"
+    },
+    {
       "id": "ntf_1792748436129_e35445",
       "type": "feedback_decision",
       "title": "👑 Admin ❌ ชะลอ/ไม่ดำเนินการ (Reject) Feedback ของ วุฒิ",
@@ -2248,10 +2261,10 @@
       "author_role": "DE",
       "text": "Test",
       "created_at": "2026-10-23T15:49:56",
-      "updated_at": "2026-10-23T16:40:36",
+      "updated_at": "2026-10-23T16:40:40",
       "status": "rejected",
       "admin_note": "",
-      "decided_at": "2026-10-23T16:40:36",
+      "decided_at": "2026-10-23T16:40:40",
       "ai_analysis": {
         "can_do": false,
         "feasibility": "ไม่แนะนำ (Not Recommended)",

@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "released_at": "2026-10-23T11:39:24",
+  "released_at": "2026-10-23T11:47:11",
   "notes": "เวอร์ชันเริ่มต้น – โปรแกรม Meeting AI แบบหน้าต่างแยก",
   "patch_url": "versions/v1.0.0/meeting_ai_patch.zip",
-  "sha256": "1d8ec2fe57e42984d179702877d7fdeecbc342f05ed7781e2d5779f89b6565f1"
+  "sha256": "aba57e4b32e04d91ad881d75dd680aad44e1442401987d79576a1389087d985c"
 }

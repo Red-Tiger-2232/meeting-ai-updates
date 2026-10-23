@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
-  "released_at": "2026-10-23T11:47:35",
+  "released_at": "2026-10-23T11:48:05",
   "notes": "เพิ่มระบบ In-App Update อัตโนมัติ + ระบบจัดการเวอร์ชันและย้อนกลับ",
   "patch_url": "versions/v1.0.1/meeting_ai_patch.zip",
-  "sha256": "2e898296b07b43a55ce425b21d944d527752e6f39e0fa4616d9077f2e8a8c389"
+  "sha256": "c9419a289261fa3fd8f1e5931ae7c5e2c3cc17ab5c1684760443f450cdb4a182"
 }

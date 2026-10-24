@@ -1,7 +1,44 @@
 {
-  "updated_at": "2026-10-25T00:11:57",
+  "updated_at": "2026-10-25T00:15:55",
   "jira_synced_at": "2026-10-25T00:11:57",
   "jira_issues": [
+    {
+      "key": "TEST",
+      "summary": "test meeting ai",
+      "status": "In Progress",
+      "status_category": "indeterminate",
+      "member_id": "wut",
+      "member_name": "Sathianwut Sukitsuksawat",
+      "member_nickname": "วุฒิ",
+      "member_role": "DE",
+      "priority": "Medium",
+      "issue_type": "Task",
+      "project_key": "TEST",
+      "updated": "2026-10-25T00:15:55",
+      "updated_local": "2026-10-25T00:15:55",
+      "duedate": "",
+      "url": "https://lotusretails.atlassian.net/browse/TEST",
+      "transitions": [
+        {
+          "id": "todo",
+          "name": "To Do",
+          "to_status": "To Do",
+          "category": "new"
+        },
+        {
+          "id": "inprogress",
+          "name": "In Progress",
+          "to_status": "In Progress",
+          "category": "indeterminate"
+        },
+        {
+          "id": "done",
+          "name": "Done",
+          "to_status": "Done",
+          "category": "done"
+        }
+      ]
+    },
     {
       "key": "CDA-291",
       "summary": "Enhance prod.t3.f_daily_sale_tran_cus to send standard item barcode to NIQ (follow-up DEAA-21263)",

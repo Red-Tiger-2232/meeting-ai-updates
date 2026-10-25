@@ -1,11 +1,20 @@
 {
-  "version": "1.6.0",
-  "released_at": "2026-10-25T12:44:20",
-  "notes": "v1.6.0: รูปโปรไฟล์ · สีแอป 5 สี · หัวหน้าวันนี้แบบใหม่ · แท็บบทสนทนา + ถาม AI + export transcript · หน้าทีมวันนี้ · สรุปเช้า / สรุปสัปดาห์ · หน้าตั้งค่าครั้งแรก (ติดตั้ง/login AI ในแอป, ตรวจสิทธิ์โฟลเดอร์)",
-  "patch_url": "versions/v1.6.0/meeting_ai_patch.zip",
-  "sha256": "121d38babae38fe30462a396644739849cf76568bc87cdffdd002b12afcc3939",
+  "version": "1.6.1",
+  "released_at": "2026-10-25T14:12:54",
+  "notes": "ย้ายช่องอัปเดต/บอร์ด/Feedback ไปคลัง private (ปลอดภัยขึ้น), ติดตั้งเฉพาะแพตช์ที่ลงลายเซ็น, เก็บโค้ดเป็น bytecode เข้ารหัส กันการแกะ, กล่อง Admin มีแท็บความปลอดภัย, หน้า ตั้งค่า→เกี่ยวกับ",
+  "patch_url": "versions/v1.6.1/meeting_ai_patch.zip",
+  "sha256": "fd99437c17e873caed6b2bbf9887a6826f63934b8da0746aa55774b33ee626de",
+  "sig": "b9e492663d5e2a6ed7728df3ba5777d2ebafe4e36b89babb0f3d059781a0846a8bf5bbbc417b82ca9adbc9b5669d2373ce1b02a3e09cd1836955479bb2c6430c",
   "rollback": false,
   "history": [
+    {
+      "version": "1.6.1",
+      "released_at": "2026-10-25T14:12:54",
+      "notes": "ย้ายช่องอัปเดต/บอร์ด/Feedback ไปคลัง private (ปลอดภัยขึ้น), ติดตั้งเฉพาะแพตช์ที่ลงลายเซ็น, เก็บโค้ดเป็น bytecode เข้ารหัส กันการแกะ, กล่อง Admin มีแท็บความปลอดภัย, หน้า ตั้งค่า→เกี่ยวกับ",
+      "patch_url": "versions/v1.6.1/meeting_ai_patch.zip",
+      "sha256": "fd99437c17e873caed6b2bbf9887a6826f63934b8da0746aa55774b33ee626de",
+      "sig": "b9e492663d5e2a6ed7728df3ba5777d2ebafe4e36b89babb0f3d059781a0846a8bf5bbbc417b82ca9adbc9b5669d2373ce1b02a3e09cd1836955479bb2c6430c"
+    },
     {
       "version": "1.6.0",
       "released_at": "2026-10-25T12:44:20",

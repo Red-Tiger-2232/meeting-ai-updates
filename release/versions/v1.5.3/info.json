@@ -1,0 +1,7 @@
+{
+  "version": "1.5.3",
+  "released_at": "2026-10-25T09:10:35",
+  "notes": "v1.5.3: โลโก้ใหม่ S&S · หลังอัปเดตแอปเปิดใหม่เองได้แน่นอนบน Mac (ไม่ติดสิทธิ์โฟลเดอร์ Documents) · ทำ MOM ด้วย Cursor/Claude แบบอ่านอย่างเดียว ไม่โหลด MCP",
+  "patch_url": "versions/v1.5.3/meeting_ai_patch.zip",
+  "sha256": "bc7d7ee8d05360bedd1ba334a2dd47eff8d93d966def8c87230d15355f3f42ab"
+}

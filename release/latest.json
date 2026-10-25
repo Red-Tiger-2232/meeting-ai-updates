@@ -1,11 +1,18 @@
 {
-  "version": "1.5.1",
-  "released_at": "2026-10-25T02:03:15",
-  "notes": "v1.5.1: แก้ระบบอัปเดต – หลังติดตั้งแอปเปิดใหม่เอง (ไม่สลับโค้ดขณะทำงาน), แก้ Mac เปิดแอปไม่ขึ้นหลังอัปเดต, เช็กอัปเดตเบื้องหลังไม่ทำให้หน้าค้าง, แก้ปุ่มอัปเดตใน v1.5.0",
-  "patch_url": "versions/v1.5.1/meeting_ai_patch.zip",
-  "sha256": "7bae7e82cddbb5404eb22107e4c1839d92aa783887c7b5647662c923fa2f80d4",
+  "version": "1.5.2",
+  "released_at": "2026-10-25T09:01:00",
+  "notes": "v1.5.2: โลโก้ใหม่ S&S (ทีม Store & Sales) · ทำ MOM ด้วย Cursor/Claude แบบอ่านอย่างเดียว ไม่โหลด MCP ของเครื่อง (เร็วและปลอดภัยขึ้น)",
+  "patch_url": "versions/v1.5.2/meeting_ai_patch.zip",
+  "sha256": "d5c8f0fee2db49f2d95833403d0d9249c34b759c85c1fb14e7a6d284427bcee4",
   "rollback": false,
   "history": [
+    {
+      "version": "1.5.2",
+      "released_at": "2026-10-25T09:01:00",
+      "notes": "v1.5.2: โลโก้ใหม่ S&S (ทีม Store & Sales) · ทำ MOM ด้วย Cursor/Claude แบบอ่านอย่างเดียว ไม่โหลด MCP ของเครื่อง (เร็วและปลอดภัยขึ้น)",
+      "patch_url": "versions/v1.5.2/meeting_ai_patch.zip",
+      "sha256": "d5c8f0fee2db49f2d95833403d0d9249c34b759c85c1fb14e7a6d284427bcee4"
+    },
     {
       "version": "1.5.1",
       "released_at": "2026-10-25T02:03:15",

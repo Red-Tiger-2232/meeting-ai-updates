@@ -1,0 +1,7 @@
+{
+  "version": "1.5.2",
+  "released_at": "2026-10-25T09:01:00",
+  "notes": "v1.5.2: โลโก้ใหม่ S&S (ทีม Store & Sales) · ทำ MOM ด้วย Cursor/Claude แบบอ่านอย่างเดียว ไม่โหลด MCP ของเครื่อง (เร็วและปลอดภัยขึ้น)",
+  "patch_url": "versions/v1.5.2/meeting_ai_patch.zip",
+  "sha256": "d5c8f0fee2db49f2d95833403d0d9249c34b759c85c1fb14e7a6d284427bcee4"
+}
